@@ -1,0 +1,5 @@
+const car = ["car","bike","cycle"];
+car.forEach((x,y)=>{
+console.log(x,y);
+})
+console.log("adad");
